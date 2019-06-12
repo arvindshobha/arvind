@@ -1,0 +1,4 @@
+body{display: flex;flex-flow:rowwrap; border: 5px solid red;height: 700px;
+align-items: stretch;}
+div{width: 200px;border: 1px solid red;background-color: darkgray;text-align: center;
+margin: 8px;}
